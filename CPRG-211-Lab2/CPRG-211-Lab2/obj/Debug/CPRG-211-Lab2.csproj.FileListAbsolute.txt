@@ -1,0 +1,7 @@
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab2\CPRG-211-Lab2\CPRG-211-Lab2\bin\Debug\CPRG-211-Lab2.exe.config
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab2\CPRG-211-Lab2\CPRG-211-Lab2\bin\Debug\CPRG-211-Lab2.exe
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab2\CPRG-211-Lab2\CPRG-211-Lab2\bin\Debug\CPRG-211-Lab2.pdb
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab2\CPRG-211-Lab2\CPRG-211-Lab2\obj\Debug\CPRG-211-Lab2.csproj.AssemblyReference.cache
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab2\CPRG-211-Lab2\CPRG-211-Lab2\obj\Debug\CPRG-211-Lab2.csproj.CoreCompileInputs.cache
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab2\CPRG-211-Lab2\CPRG-211-Lab2\obj\Debug\CPRG-211-Lab2.exe
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab2\CPRG-211-Lab2\CPRG-211-Lab2\obj\Debug\CPRG-211-Lab2.pdb
